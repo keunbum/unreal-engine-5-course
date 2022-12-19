@@ -21,8 +21,10 @@
 
 1. Getting Started
 
-2. Realistic Landscapes
+2. [Realistic Landscapes](./sections/section02/)
 
 3. [Vectors, Rotators, and Trigonometry](./sections/section03/)
 
 4. [C++ in Unreal Engine](./sections/section04/)
+
+5. [The Actor Class](./sections/section05/)
